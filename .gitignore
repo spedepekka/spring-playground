@@ -16,3 +16,4 @@ target/
 *.swp
 .idea
 spring-playground.iml
+.DS_Store
