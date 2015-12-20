@@ -2,24 +2,6 @@
 
 Repository for my experiments with Spring
 
-## Run
-
-```
-mvn spring-boot:run
-```
-
-## Build JAR
-
-```
-mvn package
-```
-
-## Run JAR
-
-```
-java -jar <PATH_TO_JAR>
-```
-
 ## Links
 
 * [Hello World][hello-world]
