@@ -17,6 +17,14 @@ mvn package
 ## Run JAR
 
 ```
-java -jar target/myproject-0.0.1-SNAPSHOT.jar
+java -jar <PATH_TO_JAR>
 ```
+
+## Links
+
+* [Hello World][hello-world]
+* [Accessing JPA Data with REST][jpa-rest]
+
+[hello-world]: https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-first-application.html
+[jpa-rest]: http://spring.io/guides/gs/accessing-data-rest/
 
