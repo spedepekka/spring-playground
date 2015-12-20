@@ -7,3 +7,16 @@ Repository for my experiments with Spring
 ```
 mvn spring-boot:run
 ```
+
+## Build JAR
+
+```
+mvn package
+```
+
+## Run JAR
+
+```
+java -jar target/myproject-0.0.1-SNAPSHOT.jar
+```
+
