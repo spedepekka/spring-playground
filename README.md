@@ -5,5 +5,5 @@ Repository for my experiments with Spring
 ## Run
 
 ```
-spring run app.groovy
+mvn spring-boot:run
 ```
